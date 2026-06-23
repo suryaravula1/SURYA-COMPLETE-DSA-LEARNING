@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/suryaravula1/SURYA-COMPLETE-DSA-LEARNING/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/suryaravula1/SURYA-COMPLETE-DSA-LEARNING/tree/master/0036-valid-sudoku) |
 ## Hash Table
 |  |
@@ -15,4 +16,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/suryaravula1/SURYA-COMPLETE-DSA-LEARNING/tree/master/0036-valid-sudoku) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/suryaravula1/SURYA-COMPLETE-DSA-LEARNING/tree/master/0015-3sum) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/suryaravula1/SURYA-COMPLETE-DSA-LEARNING/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
