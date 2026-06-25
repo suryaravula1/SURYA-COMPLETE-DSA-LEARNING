@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/suryaravula1/SURYA-COMPLETE-DSA-LEARNING/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/suryaravula1/SURYA-COMPLETE-DSA-LEARNING/tree/master/0036-valid-sudoku) |
 | [0424-longest-repeating-character-replacement](https://github.com/suryaravula1/SURYA-COMPLETE-DSA-LEARNING/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/suryaravula1/SURYA-COMPLETE-DSA-LEARNING/tree/master/0567-permutation-in-string) |
 ## Matrix
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/suryaravula1/SURYA-COMPLETE-DSA-LEARNING/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/suryaravula1/SURYA-COMPLETE-DSA-LEARNING/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/suryaravula1/SURYA-COMPLETE-DSA-LEARNING/tree/master/0042-trapping-rain-water) |
+| [0567-permutation-in-string](https://github.com/suryaravula1/SURYA-COMPLETE-DSA-LEARNING/tree/master/0567-permutation-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -51,11 +53,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/suryaravula1/SURYA-COMPLETE-DSA-LEARNING/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/suryaravula1/SURYA-COMPLETE-DSA-LEARNING/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/suryaravula1/SURYA-COMPLETE-DSA-LEARNING/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/suryaravula1/SURYA-COMPLETE-DSA-LEARNING/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/suryaravula1/SURYA-COMPLETE-DSA-LEARNING/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/suryaravula1/SURYA-COMPLETE-DSA-LEARNING/tree/master/0567-permutation-in-string) |
 ## Backtracking
 |  |
 | ------- |
