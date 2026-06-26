@@ -3,10 +3,11 @@ class Solution {
         
         HashMap<Character, Integer> map = new HashMap<>();
 
-        StringBuilder resultString = new StringBuilder();
-
         int need =0;
         int have =0;
+
+        int minLength = Integer.MAX_VALUE;
+        int minStartIndex =0;
 
         for(char c : t.toCharArray()){
             map.put(c,map.getOrDefault(c,0)+1);
@@ -29,8 +30,9 @@ class Solution {
 
             while(need == have){
 
-                if(resultString.isEmpty() || (right-left)+1 < resultString.length()){
-                    resultString = new StringBuilder(s.substring(left, right+1));
+                if((right-left)+1 <minLength ){
+                    minLength = (right-left)+1;
+                    minStartIndex= left;
                 }
                 
                 
@@ -50,7 +52,11 @@ class Solution {
 
         }
 
-        return resultString.toString();
+        if(minLength == Integer.MAX_VALUE){
+            return "";
+        }
+
+        return s.substring(minStartIndex, minStartIndex+minLength);
 
 
     }
