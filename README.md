@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/suryaravula1/SURYA-COMPLETE-DSA-LEARNING/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/suryaravula1/SURYA-COMPLETE-DSA-LEARNING/tree/master/0075-sort-colors) |
 | [0239-sliding-window-maximum](https://github.com/suryaravula1/SURYA-COMPLETE-DSA-LEARNING/tree/master/0239-sliding-window-maximum) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/suryaravula1/SURYA-COMPLETE-DSA-LEARNING/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/suryaravula1/SURYA-COMPLETE-DSA-LEARNING/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/suryaravula1/SURYA-COMPLETE-DSA-LEARNING/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/suryaravula1/SURYA-COMPLETE-DSA-LEARNING/tree/master/0567-permutation-in-string) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/suryaravula1/SURYA-COMPLETE-DSA-LEARNING/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Matrix
 |  |
 | ------- |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/suryaravula1/SURYA-COMPLETE-DSA-LEARNING/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/suryaravula1/SURYA-COMPLETE-DSA-LEARNING/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/suryaravula1/SURYA-COMPLETE-DSA-LEARNING/tree/master/0567-permutation-in-string) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/suryaravula1/SURYA-COMPLETE-DSA-LEARNING/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Backtracking
 |  |
 | ------- |
