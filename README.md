@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/suryaravula1/SURYA-COMPLETE-DSA-LEARNING/tree/master/0239-sliding-window-maximum) |
 | [0485-max-consecutive-ones](https://github.com/suryaravula1/SURYA-COMPLETE-DSA-LEARNING/tree/master/0485-max-consecutive-ones) |
 | [0713-subarray-product-less-than-k](https://github.com/suryaravula1/SURYA-COMPLETE-DSA-LEARNING/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/suryaravula1/SURYA-COMPLETE-DSA-LEARNING/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/suryaravula1/SURYA-COMPLETE-DSA-LEARNING/tree/master/1004-max-consecutive-ones-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/suryaravula1/SURYA-COMPLETE-DSA-LEARNING/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/suryaravula1/SURYA-COMPLETE-DSA-LEARNING/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/suryaravula1/SURYA-COMPLETE-DSA-LEARNING/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/suryaravula1/SURYA-COMPLETE-DSA-LEARNING/tree/master/0567-permutation-in-string) |
+| [0904-fruit-into-baskets](https://github.com/suryaravula1/SURYA-COMPLETE-DSA-LEARNING/tree/master/0904-fruit-into-baskets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/suryaravula1/SURYA-COMPLETE-DSA-LEARNING/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Matrix
 |  |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/suryaravula1/SURYA-COMPLETE-DSA-LEARNING/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/suryaravula1/SURYA-COMPLETE-DSA-LEARNING/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/suryaravula1/SURYA-COMPLETE-DSA-LEARNING/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/suryaravula1/SURYA-COMPLETE-DSA-LEARNING/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/suryaravula1/SURYA-COMPLETE-DSA-LEARNING/tree/master/1004-max-consecutive-ones-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/suryaravula1/SURYA-COMPLETE-DSA-LEARNING/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Backtracking
