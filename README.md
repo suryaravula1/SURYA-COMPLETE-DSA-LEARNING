@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/suryaravula1/SURYA-COMPLETE-DSA-LEARNING/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/suryaravula1/SURYA-COMPLETE-DSA-LEARNING/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/suryaravula1/SURYA-COMPLETE-DSA-LEARNING/tree/master/0075-sort-colors) |
+| [0209-minimum-size-subarray-sum](https://github.com/suryaravula1/SURYA-COMPLETE-DSA-LEARNING/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/suryaravula1/SURYA-COMPLETE-DSA-LEARNING/tree/master/0239-sliding-window-maximum) |
 | [0485-max-consecutive-ones](https://github.com/suryaravula1/SURYA-COMPLETE-DSA-LEARNING/tree/master/0485-max-consecutive-ones) |
 | [0713-subarray-product-less-than-k](https://github.com/suryaravula1/SURYA-COMPLETE-DSA-LEARNING/tree/master/0713-subarray-product-less-than-k) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/suryaravula1/SURYA-COMPLETE-DSA-LEARNING/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/suryaravula1/SURYA-COMPLETE-DSA-LEARNING/tree/master/0076-minimum-window-substring) |
+| [0209-minimum-size-subarray-sum](https://github.com/suryaravula1/SURYA-COMPLETE-DSA-LEARNING/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/suryaravula1/SURYA-COMPLETE-DSA-LEARNING/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/suryaravula1/SURYA-COMPLETE-DSA-LEARNING/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/suryaravula1/SURYA-COMPLETE-DSA-LEARNING/tree/master/0567-permutation-in-string) |
@@ -98,11 +100,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/suryaravula1/SURYA-COMPLETE-DSA-LEARNING/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/suryaravula1/SURYA-COMPLETE-DSA-LEARNING/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/suryaravula1/SURYA-COMPLETE-DSA-LEARNING/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/suryaravula1/SURYA-COMPLETE-DSA-LEARNING/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/suryaravula1/SURYA-COMPLETE-DSA-LEARNING/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/suryaravula1/SURYA-COMPLETE-DSA-LEARNING/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
