@@ -109,4 +109,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/suryaravula1/SURYA-COMPLETE-DSA-LEARNING/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/suryaravula1/SURYA-COMPLETE-DSA-LEARNING/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/suryaravula1/SURYA-COMPLETE-DSA-LEARNING/tree/master/1004-max-consecutive-ones-iii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/suryaravula1/SURYA-COMPLETE-DSA-LEARNING/tree/master/0547-number-of-provinces) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/suryaravula1/SURYA-COMPLETE-DSA-LEARNING/tree/master/0547-number-of-provinces) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/suryaravula1/SURYA-COMPLETE-DSA-LEARNING/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/suryaravula1/SURYA-COMPLETE-DSA-LEARNING/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
